@@ -35,3 +35,11 @@ http://projectcerbera.com/gta/sa/tutorials/handling
 - ทดสอบปรับเครื่องยนต์ Type 1 :heavy_check_mark:
 https://streamable.com/rlsdv
 - งานตัดไม้ (14/3/2020) :heavy_check_mark:
+- งานตกปลา :heavy_check_mark:
+- งานขุดเหมือง :heavy_check_mark:
+- งานเก็บ Herb :heavy_check_mark:
+- งานพิซซ่า :heavy_check_mark:
+- งานเก็บฟืน :heavy_check_mark:
+- GPS Map marker :heavy_check_mark:
+- Speedometer :heavy_check_mark:
+- เครื่องยนต์พัง :heavy_check_mark:
