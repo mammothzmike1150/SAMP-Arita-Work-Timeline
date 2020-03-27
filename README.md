@@ -53,3 +53,11 @@ https://streamable.com/rlsdv
 - การตั้งค่าการแสดงผล :heavy_check_mark:
 • ขนาดหน้าต่าง :heavy_check_mark:
 • FOV :heavy_check_mark:
+- ลงโมเดลรถ :heavy_check_mark:
+• I8 Roadster :heavy_check_mark:
+• Mclaren 2015 :heavy_check_mark:
+• BMW S1000RR :heavy_check_mark:
+- ลงโมเดลของใช้ :heavy_check_mark:
+• Pickaxe :heavy_check_mark:
+• เบ็ดตกปลา :heavy_check_mark:
+• ขวาน :heavy_check_mark:
