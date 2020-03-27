@@ -43,3 +43,13 @@ https://streamable.com/rlsdv
 - GPS Map marker :heavy_check_mark:
 - Speedometer :heavy_check_mark:
 - เครื่องยนต์พัง :heavy_check_mark:
+- เมนูตั้งค้า :heavy_check_mark:
+- การตั้งค่าเสียง :heavy_check_mark:
+• เสียงเพลง Login :heavy_check_mark:
+• เสียงเพลง DJ :heavy_check_mark:
+• เสียง NPC :heavy_check_mark:
+- การตั้งค่า Gameplay :heavy_check_mark:
+• ออกจากเกม :heavy_check_mark:
+- การตั้งค่าการแสดงผล :heavy_check_mark:
+• ขนาดหน้าต่าง :heavy_check_mark:
+• FOV :heavy_check_mark:
